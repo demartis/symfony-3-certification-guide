@@ -10,7 +10,7 @@ Inspired by the Symfony 2.3 certification guide of [jmolivas] (https://github.co
 #### **PHP**
 * [X] Object Oriented Programming  
 http://php.net/manual/en/language.oop5.php
-* [ ] Namespaces  
+* [X] Namespaces  
 http://www.php.net/manual/en/language.namespaces.php  
 https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
 * [ ] Interfaces  
