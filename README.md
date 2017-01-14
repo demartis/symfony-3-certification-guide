@@ -13,18 +13,18 @@ http://php.net/manual/en/language.oop5.php
 * [X] Namespaces  
 http://www.php.net/manual/en/language.namespaces.php  
 https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
-* [ ] Interfaces  
+* [X] Interfaces  
 http://www.php.net/manual/en/language.oop5.interfaces.php
-* [ ] Anonymous functions and closures  
+* [X] Anonymous functions and closures  
 http://www.php.net/manual/en/functions.anonymous.php
-* [ ] Abstract classes  
+* [X] Abstract classes  
 http://www.php.net/manual/en/language.oop5.abstract.php
-* [ ] Exception and error handling  
+* [X] Exception and error handling  
 https://secure.php.net/manual/en/class.exception.php  
 http://php.net/manual/en/language.exceptions.php
-* [ ] Traits  
+* [X] Traits  
 http://php.net/manual/en/language.oop5.traits.php
-* [ ] PHP extensions  
+* [X] PHP extensions  
 http://php.net/manual/en/extensions.php
 * [ ] SPL  
 http://php.net/manual/en/book.spl.php
