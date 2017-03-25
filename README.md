@@ -8,23 +8,23 @@ Inspired by the Symfony 2.3 certification guide of [jmolivas] (https://github.co
 
 
 #### **PHP**
-* [X] Object Oriented Programming  
+* [ ] Object Oriented Programming  
 http://php.net/manual/en/language.oop5.php
-* [X] Namespaces  
+* [ ] Namespaces  
 http://www.php.net/manual/en/language.namespaces.php  
 https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
-* [X] Interfaces  
+* [ ] Interfaces  
 http://www.php.net/manual/en/language.oop5.interfaces.php
-* [X] Anonymous functions and closures  
+* [ ] Anonymous functions and closures  
 http://www.php.net/manual/en/functions.anonymous.php
-* [X] Abstract classes  
+* [ ] Abstract classes  
 http://www.php.net/manual/en/language.oop5.abstract.php
-* [X] Exception and error handling  
+* [ ] Exception and error handling  
 https://secure.php.net/manual/en/class.exception.php  
 http://php.net/manual/en/language.exceptions.php
-* [X] Traits  
+* [ ] Traits  
 http://php.net/manual/en/language.oop5.traits.php
-* [X] PHP extensions  
+* [ ] PHP extensions  
 http://php.net/manual/en/extensions.php
 * [ ] SPL  
 http://php.net/manual/en/book.spl.php
