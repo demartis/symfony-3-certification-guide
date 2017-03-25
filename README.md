@@ -8,6 +8,7 @@ Inspired by the Symfony 2.3 certification guide of [jmolivas] (https://github.co
 
 
 #### **PHP**
+* [ ] PHP 5.3 to PHP 5.6 API
 * [ ] Object Oriented Programming  
 http://php.net/manual/en/language.oop5.php
 * [ ] Namespaces  
@@ -15,8 +16,11 @@ http://www.php.net/manual/en/language.namespaces.php
 https://knpuniversity.com/screencast/php-namespaces-in-120-seconds/namespaces
 * [ ] Interfaces  
 http://www.php.net/manual/en/language.oop5.interfaces.php
+http://php.net/manual/en/language.operators.type.php
+http://php.net/manual/en/language.oop5.typehinting.php
 * [ ] Anonymous functions and closures  
 http://www.php.net/manual/en/functions.anonymous.php
+http://php.net/manual/en/class.closure.php
 * [ ] Abstract classes  
 http://www.php.net/manual/en/language.oop5.abstract.php
 * [ ] Exception and error handling  
@@ -36,12 +40,19 @@ http://php.net/manual/en/security.php
 #### **HTTP**
 * [ ] Client / Server interaction  
 http://symfony.com/doc/3.2/book/http_fundamentals.html
+http://en.wikibooks.org/wiki/Communication_Networks/HTTP_Protocol
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html
+http://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol
 * [ ] Status codes  
 http://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+https://github.com/for-GET/know-your-http-well/blob/master/status-codes.md
 * [ ] HTTP request  
 http://symfony.com/doc/3.2/components/http_foundation/introduction.html#request
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 * [ ] HTTP response  
 http://symfony.com/doc/3.2/components/http_foundation/introduction.html#response
+http://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6
 * [ ] HTTP methods
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html
 * [ ] Cookies  
@@ -65,7 +76,8 @@ http://symfony.com/doc/3.2/contributing/code/license.html
 * [ ] Components  
 http://symfony.com/doc/3.2/components/index.html
 * [ ] Bundles  
-http://symfony.com/doc/bundles/  
+http://symfony.com/doc/bundles/
+http://symfony.com/doc/3.2/bundles.html
 http://symfony.com/doc/3.2/cookbook/bundles/best_practices.html  
 http://symfony.com/doc/3.2/quick_tour/the_architecture.html#understanding-the-bundle-system
 * [ ] Bridges  
@@ -98,6 +110,7 @@ http://symfony.com/blog/paving-the-way-for-symfony-3-with-the-deprecation-detect
 #### **Standardization**
 * [ ]  Release management and roadmap schedule  
 http://symfony.com/doc/3.2/contributing/community/releases.html
+http://symfony.com/doc/3.2/contributing/code/conventions.html
 * [ ]  Framework interoperability and PSRs  
 http://www.php-fig.org/psr/
 * [ ]  Naming conventions  
@@ -111,6 +124,8 @@ https://getcomposer.org/doc/00-intro.md#introduction
 http://symfony.com/doc/3.2/cookbook/composer.html
 * [ ]  Development best practices  
 http://symfony.com/doc/3.2/cookbook/deployment/tools.html
+http://www.phptherightway.com
+http://symfony.com/doc/3.2/best_practices/index.html
 * [ ]  Framework overloading  
 http://symfony.com/doc/3.2/cookbook/configuration/override_dir_structure.html  
 http://symfony.com/doc/3.2/cookbook/bundles/inheritance.html  
